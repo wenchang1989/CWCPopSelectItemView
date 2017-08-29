@@ -3,7 +3,7 @@
 
 效果
 
-！[image] (https://github.com/wenchang1989/CWCPopSelectItemView/blob/master/2017-08-29%2017_29_46.gif?raw=true)
+![image] (https://github.com/wenchang1989/CWCPopSelectItemView/blob/master/2017-08-29%2017_29_46.gif?raw=true)
 
 
 使用
